@@ -129,6 +129,9 @@ spec:
    helm repo index .
    ```
 
+<img width="1391" height="840" alt="image" src="https://github.com/user-attachments/assets/5c33008a-d791-43ba-a8cb-90d8a78c87f5" />
+
+
 ---
 
 ## Step 4: Host the Helm Repo on GitHub
