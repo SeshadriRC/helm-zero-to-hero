@@ -140,12 +140,18 @@ spec:
 
    * Name: `helm-repo`
 
+<img width="1916" height="797" alt="image" src="https://github.com/user-attachments/assets/4fd35bab-2f1c-418a-903d-61bc9407decd" />
+
+
 2. **Initialize a Git repo:**
 
    ```bash
    git init
    git remote add origin https://github.com/username/helm-repo.git
    ```
+
+<img width="1211" height="707" alt="image" src="https://github.com/user-attachments/assets/d0932934-249d-43da-ad29-837f4afab5ac" />
+
 
 3. **Push the Helm charts to GitHub:**
 
@@ -155,10 +161,21 @@ spec:
    git push -u origin main
    ```
 
+   <img width="1148" height="977" alt="image" src="https://github.com/user-attachments/assets/1995e704-0e10-438b-b662-314cb4daa06b" />
+
+
 4. **Configure GitHub Pages:**
 
    * Go to the repo settings.
    * Enable GitHub Pages from the `main` branch.
+
+<img width="1918" height="842" alt="image" src="https://github.com/user-attachments/assets/f84e4370-46e7-4d7f-a5c6-383e0c136859" />
+
+- save it
+
+<img width="1913" height="876" alt="image" src="https://github.com/user-attachments/assets/009d1d5c-5406-47d1-8991-94589f6c68c2" />
+
+<img width="1300" height="602" alt="image" src="https://github.com/user-attachments/assets/796a68de-5e69-459f-a125-518a8e9d404a" />
 
 ---
 
@@ -171,11 +188,17 @@ spec:
    helm repo update
    ```
 
+   <img width="1165" height="383" alt="image" src="https://github.com/user-attachments/assets/a0b26856-e321-4ca4-a593-5277867f5402" />
+
+
 2. **Search for charts:**
 
    ```bash
    helm search repo myrepo
    ```
+
+<img width="1918" height="302" alt="image" src="https://github.com/user-attachments/assets/ed843a87-a220-43ac-9b59-749dd32f40ea" />
+
 
 3. **Install a service (e.g., payments):**
 
